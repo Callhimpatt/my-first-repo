@@ -1,1 +1,2 @@
-# my-first-repo
+# my-first-repo 
+Hi, my name is Patrick Dacius. I was born and raised in Brooklyn, New York by both of my parents who are immigrants. Both of my parents were born in Haiti. On my free time I like to play basketball, hit the gym, and hang out with friends! 
